@@ -1,0 +1,8 @@
+{
+  "name": "Lisardo Warush - Minimalismo Familiar",
+  "description": "Landing page oficial de Lisardo Warush. Especialista en minimalismo familiar, hábitos conscientes, armonía en el hogar y estilo de vida equilibrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
